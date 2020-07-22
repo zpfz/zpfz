@@ -20,9 +20,12 @@ I am an animator who can program.
  [VueJS](https://cn.vuejs.org/) | [Electron](http://www.electronjs.org/) | 
 
 ### Design
-| <img src="https://s1.ax1x.com/2020/07/22/U7hiXq.png" height="80" width="80" style="min-width: 80px;min-height: 80px" /> | <img src="https://s1.ax1x.com/2020/07/22/U7fztg.png" height="80" width="80" style="min-width: 80px;min-height: 80px"/> | <img src="https://s1.ax1x.com/2020/07/22/U7hPcn.png" height="80" width="80" style="min-width: 80px;min-height: 80px"/> | <img src="https://s1.ax1x.com/2020/07/22/U7hShQ.png" height="80" width="80" style="min-width: 80px;min-height: 80px"/> | <img src="https://s1.ax1x.com/2020/07/22/U7hABV.png" height="80" width="80" style="min-width: 80px;min-height: 80px"/> | <img src="https://s1.ax1x.com/2020/07/22/U7hC1s.png" height="80" width="80" style="min-width: 80px;min-height: 80px" /> | <img src="https://s1.ax1x.com/2020/07/22/U7fX0f.png" height="80" width="80" style="min-width: 80px;min-height: 80px"/> | <img src="https://s1.ax1x.com/2020/07/22/U7fxAS.png" height="80" width="80" style="min-width: 80px;min-height: 80px"/> | <img src="https://s1.ax1x.com/2020/07/22/U7fj78.png" height="80" width="80" style="min-width: 80px;min-height: 80px"/> | 
-| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|Photoshop | illustrator | Premiere | After Effects | Xd | Lightroom Classic | Audition | Substance | Cinema 4D |
+| <img src="https://s1.ax1x.com/2020/07/22/U7hiXq.png" height="80" width="80" style="min-width: 80px;min-height: 80px" /> | <img src="https://s1.ax1x.com/2020/07/22/U7fztg.png" height="80" width="80" style="min-width: 80px;min-height: 80px"/> | <img src="https://s1.ax1x.com/2020/07/22/U7hPcn.png" height="80" width="80" style="min-width: 80px;min-height: 80px"/> | <img src="https://s1.ax1x.com/2020/07/22/U7hShQ.png" height="80" width="80" style="min-width: 80px;min-height: 80px"/> | <img src="https://s1.ax1x.com/2020/07/22/U7hABV.png" height="80" width="80" style="min-width: 80px;min-height: 80px"/> | <img src="https://s1.ax1x.com/2020/07/22/U7hC1s.png" height="80" width="80" style="min-width: 80px;min-height: 80px" /> | <img src="https://s1.ax1x.com/2020/07/22/U7fX0f.png" height="80" width="80" style="min-width: 80px;min-height: 80px"/> |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|Photoshop | illustrator | Premiere | After Effects | Xd | Lightroom Classic | Audition |
+| <img src="https://s1.ax1x.com/2020/07/22/U7fxAS.png" height="80" width="80" style="min-width: 80px;min-height: 80px"/> | <img src="https://s1.ax1x.com/2020/07/22/U7fj78.png" height="80" width="80" style="min-width: 80px;min-height: 80px"/> | 
+| :-: | :-: |
+| Substance | Cinema 4D |
 
 Remark:
  - ![01](https://s1.ax1x.com/2020/07/22/U74gZ6.png) : Use daily.
