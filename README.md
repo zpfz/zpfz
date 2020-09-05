@@ -20,13 +20,13 @@ I am an animator who can program.
  [VueJS](https://cn.vuejs.org/) | [Electron](http://www.electronjs.org/) | 
 
 ### Design
-| ![](https://s1.ax1x.com/2020/07/22/U7hiXq.png) | ![](https://s1.ax1x.com/2020/07/22/U7fztg.png) | ![](https://s1.ax1x.com/2020/07/22/U7hPcn.png) | ![](https://s1.ax1x.com/2020/07/22/U7hShQ.png) | ![](https://s1.ax1x.com/2020/07/22/U7hABV.png) | 
-| :-: | :-: | :-: | :-: | :-: |
-|Photoshop | illustrator | Premiere | After Effects | Xd |
+| ![](https://s1.ax1x.com/2020/07/22/U7hiXq.png) | ![](https://s1.ax1x.com/2020/07/22/U7fztg.png) | ![](https://s1.ax1x.com/2020/07/22/U7hPcn.png) | ![](https://s1.ax1x.com/2020/07/22/U7hShQ.png) | ![](https://s1.ax1x.com/2020/07/22/U7hABV.png) |  ![](https://s1.ax1x.com/2020/07/22/U7hC1s.png) | ![](https://s1.ax1x.com/2020/07/22/U7fX0f.png) |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|Photoshop | illustrator | Premiere | After Effects | Xd | Lightroom Classic | Audition |
 
-| ![](https://s1.ax1x.com/2020/07/22/U7hC1s.png) | ![](https://s1.ax1x.com/2020/07/22/U7fX0f.png) | ![](https://s1.ax1x.com/2020/07/22/U7fxAS.png) | ![](https://s1.ax1x.com/2020/07/22/U7fj78.png) |
-| :-: | :-: | :-: | :-: |
-| Lightroom Classic | Audition | Substance | Cinema 4D |
+| ![](https://s1.ax1x.com/2020/07/22/U7fxAS.png) | ![](https://s1.ax1x.com/2020/07/22/U7fj78.png) |
+| :-: | :-: |
+| Substance | Cinema 4D |
 
 Remark:
  - ![01](https://s1.ax1x.com/2020/07/22/U74gZ6.png) : Use daily.
