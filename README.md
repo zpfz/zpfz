@@ -28,9 +28,3 @@ Remark:
  - ![02](https://s1.ax1x.com/2020/07/22/U746qx.png) : Use frequently.
  - ![03](https://s1.ax1x.com/2020/07/22/U74ys1.png) : Use occasionally .
  - ![04](https://s1.ax1x.com/2020/07/22/U74sMR.png) : Haven't used it for a long time.
-
-### Social
-| ![juejin](https://s1.ax1x.com/2020/07/22/U7HhJf.png) | ![csdn](https://s1.ax1x.com/2020/07/22/U7H4W8.png) |
-| :-: | :-: |
-[Juejin](https://juejin.im/user/5d07466b51882554d6312922) | [CSDN](https://blog.csdn.net/zpfz756) |
-
